@@ -8,5 +8,8 @@ Open this folder in your agent and ask for work: "research <company>", "draft ou
 ## Add to it
 Drop calls, decks and threads in `_inbox/` and run the `ingest` skill. Run `brain-review` weekly.
 
+## Learn it
+New to context layers and company brains? Work through the five hands-on exercises in [EXERCISES.md](EXERCISES.md).
+
 ## Layout
 `context/` stable truth, `knowledge/` what we learn from work, `skills/` repeatable jobs, `examples/` gold outputs, `outputs/` generated work, `_inbox/` raw material.
