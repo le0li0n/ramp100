@@ -16,6 +16,6 @@ description: Draft a multi-touch outbound sequence (email plus LinkedIn) for one
 
 ## Learn Loop (finish every run with this)
 1. Ask the user what they changed or disliked, if present.
-2. Record durable lessons in the relevant context file or a note in `knowledge/insights/`. Promote an insight from emerging to validated once two separate sources support it. Do not make a one-off preference a permanent rule without asking.
+2. Record durable lessons in the relevant context file or a note in `knowledge/insights/`. Promote an insight from emerging to validated once two separate sources support it. When the user corrects the output, ask whether it applies to this draft only or is a permanent rule, and write it as a rule only if they say permanent. Put style rules in `context/voice.md`.
 3. If the user calls the output excellent, save it to `examples/outbound-draft/`.
 4. Append one line to `knowledge/log.md`: date, skill, what changed.
